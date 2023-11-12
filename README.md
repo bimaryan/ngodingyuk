@@ -1,7 +1,7 @@
 <div align="center">
         <h1 align="center">NgodingYuk</h1>
         <p align="center">
-            An awesome README template to jumpstart your projects!
+            Projects forum NgodingYuk
             <br />
             <a href="https://github.com/othneildrew/Best-README-Template"><strong>Explore the docs »</strong></a>
             <br />
