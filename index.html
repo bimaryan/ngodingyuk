@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Belajar JavaScript</title>
+</head>
+<body>
+
+  <h1>Selamat datang di Belajar JavaScript</h1>
+
+  <script>
+    // 1. Variabel dan Tipe Data
+    let nama = "John";
+    let umur = 25;
+    let tinggi = 175.5;
+    let isMahasiswa = true;
+
+    // 2. Menampilkan data ke konsol
+    console.log("Nama:", nama);
+    console.log("Umur:", umur);
+    console.log("Tinggi:", tinggi);
+    console.log("Mahasiswa?", isMahasiswa);
+
+    // 3. Struktur kendali - If statement
+    if (umur >= 18) {
+      console.log("Anda dewasa");
+    } else {
+      console.log("Anda masih anak-anak");
+    }
+
+    // 4. Perulangan - For loop
+    for (let i = 1; i <= 5; i++) {
+      console.log("Perulangan ke-", i);
+    }
+
+    // 5. Fungsi
+    function tambah(a, b) {
+      return a + b;
+    }
+
+    let hasilTambah = tambah(3, 5);
+    console.log("Hasil penjumlahan:", hasilTambah);
+
+    // 6. Objek
+    let person = {
+      nama: "Jane",
+      umur: 22,
+      pekerjaan: "Programmer"
+    };
+
+    console.log("Objek Person:", person);
+
+  </script>
+
+</body>
+</html>
