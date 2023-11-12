@@ -12,14 +12,8 @@
             ·
             <a href="https://github.com/othneildrew/Best-README-Template/issues">Request Feature</a>
         </p>
-    </div>
+</div>
 
-    ##DEVELOPER
-    <ul>
-        <li>
-            <a href="https://github.com/Bimaryan"></a>
-        </li>
-        <li>
-            <a href="https://github.com/RumaSu"></a>
-        </li>
-    </ul>
+##DEVELOPER
+- https://github.com/Bimaryan
+- https://github.com/RumaSu
