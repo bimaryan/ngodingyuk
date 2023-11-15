@@ -1,4 +1,3 @@
 <?php
-    header('location: ../ngodingyuk/Home');
-    exit();
+    require 'routes/web.php';
 ?>
